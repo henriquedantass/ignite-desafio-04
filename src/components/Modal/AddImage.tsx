@@ -14,6 +14,7 @@ interface ModalAddImageProps {
   onClose: () => void;
 }
 
+
 export function ModalAddImage({
   isOpen,
   onClose,
